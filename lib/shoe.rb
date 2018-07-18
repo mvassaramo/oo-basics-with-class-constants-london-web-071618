@@ -22,5 +22,3 @@ class Shoe
   end
   
 end
-
-Shoe
